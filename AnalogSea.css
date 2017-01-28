@@ -1,0 +1,71 @@
+body {
+  background-color: lightblue;
+}
+
+img.logo {
+  padding-top: 10px;
+  display: block;
+  height: 35px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.white_background {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+p.Sign-Up {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+}
+
+.sign-in-form input {
+  color: grey;
+  display: block;
+  width: 320px;
+  border: 2px;
+  border-style: solid;
+  padding: 15px;
+}
+
+fieldset  {
+  border: none;
+}
+
+button  {
+  font-size: 20px;
+  height: 55px;
+  margin-left: 30px;
+  background-color: lightgreen;
+  width: 320px;
+  border: 2px;
+  border-style: solid;
+  padding: 15px;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+.forgot {
+  padding-top: 5px;
+  margin-left: 140px;
+  display: block;
+  width: 320px;
+}
+
+.account {
+  margin-left: 40%;
+  display: inline-block;
+}
+
+.login  {
+  display: inline-block;
+}
